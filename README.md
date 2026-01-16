@@ -16,7 +16,7 @@ To provide a fun, interactive way to select random outcomes or prizes using a di
 
 1. **Clone or Download** this repository.
    ```bash
-   git clone https://github.com/jahnavi0057/jahnavigame01.git
+   git clone https://github.com/jahnavi0057/Jahnavigame01.git
    ```
 2. **Navigate** to the folder.
 3. **Open** `index.html` in any modern web browser (Chrome, Firefox, Safari).
